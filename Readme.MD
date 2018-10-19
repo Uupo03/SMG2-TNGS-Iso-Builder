@@ -8,7 +8,7 @@ A iso builder for The New Green Stars, a SMG2 mod.
 
 Wiimm's ISO Tools (or WIT for short), you can get it here: https://wit.wiimm.de/
 
-**USAGE**
+**Usage**
 
 - Place a .iso file (.wbfs, .wdf, .wia and some other formats also supported) of SMG2 into the iso builder folder and run Builder.bat.
 
