@@ -10,8 +10,7 @@ Wiimm's ISO Tools (or WIT for short), you can get it here: https://wit.wiimm.de/
 
 **USAGE**
 
-- Place a .iso (.wbfs, .wdf, .wia and some other formats also supported)
-file of SMG2 into the iso builder folder and run Builder.bat.
+- Place a .iso file (.wbfs, .wdf, .wia and some other formats also supported) of SMG2 into the iso builder folder and run Builder.bat.
 
 - There are instructions on-screen but if you just want an .iso to use on dolphin:
 	1. Choose 1, 2, 3 or 4  (in this case choose 1).
