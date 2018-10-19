@@ -1,4 +1,4 @@
-**__Thank you for using my Iso Builder for SMG2, The New Gree Stars__**
+**__Thank you for using my Iso Builder for SMG2, The New Green Stars__**
 
 **What it is**
 
